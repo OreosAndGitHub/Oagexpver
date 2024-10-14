@@ -9,5 +9,5 @@ p {
   }
 div.grid-container {
     display: grid;
-    grid-template-columns: 64px 100%;
+    grid-template-columns: 64px 256px;
   }
