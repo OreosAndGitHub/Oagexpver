@@ -1,10 +1,13 @@
-h1 {
+h1.header {
     color: black;
     text-align: center;
     font-family: Helvetica;
   }
-  
 p {
     font-family: Helvetica;
     font-size: 20px;
+  }
+div.grid-container {
+    display: grid;
+    grid-template-columns: 64px 100%;
   }
