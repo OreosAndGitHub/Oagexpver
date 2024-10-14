@@ -1,11 +1,13 @@
 h1.header {
-    color: black;
+    color: white;
     text-align: center;
     font-family: Helvetica;
+    background-color: blueviolet;
+    font-size: 64px;
   }
 p {
     font-family: Helvetica;
-    font-size: 20px;
+    font-size: 30px;
   }
 div.grid-container {
     display: grid;
